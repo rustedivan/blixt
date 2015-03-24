@@ -164,6 +164,7 @@
 				TargetAttributes = {
 					208281F81AC146CF005F2249 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = Y4JDRD37Q9;
 					};
 					2082820F1AC146CF005F2249 = {
 						CreatedOnToolsVersion = 6.2;
@@ -342,6 +343,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = blixt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,6 +354,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = blixt/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -411,6 +414,7 @@
 				2082821C1AC146CF005F2249 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2082821D1AC146CF005F2249 /* Build configuration list for PBXNativeTarget "blixtTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +423,7 @@
 				2082821F1AC146CF005F2249 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
